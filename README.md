@@ -23,4 +23,4 @@ Para llevar a cabo la reaización de este proyecto, he utilizado:
 * Sara Marrero Miranda
 
 ## ⚠️ AVISO
-El proyecto es de primero de ciclo, en la actualidad tengo muchos más conocimientos por lo que el proyecto está incompleto, actualmente estoy mejorando el código existnete y ampliandolo.
+El proyecto es de primero de ciclo, en la actualidad tengo muchos más conocimientos por lo que el proyecto está incompleto, actualmente estoy mejorando el código existente y ampliandolo.
