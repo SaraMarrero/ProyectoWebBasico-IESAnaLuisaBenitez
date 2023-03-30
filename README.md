@@ -7,13 +7,13 @@ Este proyecto es un rediseño de la página web del instituto IES Ana Luisa Beni
 # Página principal
 
 # Uso de la aplicación
-## Usuario sin cuenta
+## 👤Usuario sin cuenta
 El usuario que no sea alumno mayor de edad, padre / madre de alumno menor de edad o profesor del instituto solo podrá visualizar la página que contenga información del centro.
 
-## Usuario con cuenta
+## 👤Usuario con cuenta
 Los usuarios con cuenta serán alumnos mayores de edad, padre / madre de alumnos menores de edad o profesores del instituto, al pertenecer al centro tendrán acceso a más apartados de la web, como por ejemplom acceder a los datos personales de dicho alumno o profesor (sus horarios, sus profesores, etc).
 
-# Tecnologías.
+# 🪛Tecnologías.
 Para llevar a cabo la reaización de este proyecto, he utilizado:
 * HTML
 * CSS
