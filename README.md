@@ -23,5 +23,5 @@ Para llevar a cabo la reaización de este proyecto, he utilizado:
 # Autora
 * Sara Marrero Miranda
 
-## ⚠️ AVISO
+## 🔔 AVISO
 El proyecto es de primero de ciclo, en la actualidad tengo muchos más conocimientos por lo que el proyecto está incompleto, actualmente estoy mejorando el código existente y ampliandolo.
