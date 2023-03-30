@@ -1,5 +1,5 @@
 # Antes de comenzar
-Importante aclarar que no es una página web real, es un proyecto creado para el mófulo Lenguaje de marcas y gestión de información de primero de ciclo de Desarrollo de Aplicaciones Web.
+Importante aclarar que no es una página web real, es un proyecto creado para el módulo Lenguaje de marcas y gestión de información de primero de ciclo de Desarrollo de Aplicaciones Web.
 
 # IES Ana Luisa Benitez
 Este proyecto es un rediseño de la página web del instituto IES Ana Luisa Benitez. La cuál no es funcional, es pura estética.
