@@ -1,4 +1,4 @@
-# Antes de comenzar
+# ⚠️ Antes de comenzar ⚠️
 Importante aclarar que no es una página web real, es un proyecto creado para el módulo Lenguaje de marcas y gestión de información de primero de ciclo de Desarrollo de Aplicaciones Web.
 
 # IES Ana Luisa Benitez
