@@ -4,7 +4,7 @@ Importante aclarar que no es una página web real, es un proyecto creado para el
 # IES Ana Luisa Benitez
 Este proyecto es un rediseño de la página web del instituto IES Ana Luisa Benitez. La cuál solo estética (no es funcional).
 
-# Página principal
+# 📸 Página principal
 ![Pagina principal](./img/readme.png)
 
 # Uso de la aplicación
